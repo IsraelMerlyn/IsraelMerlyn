@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hola mi nombre es Josue Vasquez, soy desarrollador Junior en Font y back, tambien me gusta el desarrollo movile, actualmente estoy con flutter👋
 
-<!--
-**IsraelMerlyn/IsraelMerlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Blog](https://img.shields.io/website?label=IsraelMerlyn.com&-up-down-green-red&style=for-the-badge&url=https://israelmerlyn.github.io/IsramerlynPortafolio/)](https://israelmerlyn.github.io/IsramerlynPortafolio/)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
