@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, soy Josue Vasquez</h1>
 <h3 align="center">Soy desarrollador Junior, Me apaciona el desarrollo Movil con flutter, tambien la parte Font Angular y Back spring boot</h3>
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IsraelMerlyn?cardType=github&theme=github-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
-
+<p align="center">
+  <a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&Text=FFFFFF">    <img  alt="IsraelMerlyn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/IsraelMerlyn?cardType=github&theme=github-dark&Text=FFFFFF" />  </a>
+</p>
 <h3>Lenguajes Front, Back y Movil:</h3>
 <p>
 
