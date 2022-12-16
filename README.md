@@ -1,19 +1,22 @@
-### Hola mi nombre es Josue Vasquez, soy desarrollador Junior en Font y back, tambien me gusta el desarrollo movile, actualmente estoy con flutter👋
 
 
+
+<h1 align="center">Hi 👋, soy Josue Vasquez</h1>
+<h3 align="center">Soy desarrollador Junior, Me apaciona el desarrollo Movil con flutter, tambien la parte Font Angular y Back spring boot</h3>
+
+<h3 align="left">Contactame:</h3>
+<p align="left">
 
 [![Blog](https://img.shields.io/website?label=IsraelMerlyn.com&-up-down-green-red&style=for-the-badge&url=https://israelmerlyn.github.io/IsramerlynPortafolio/)](https://israelmerlyn.github.io/IsramerlynPortafolio/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<h1 align="center">Hi 👋, I'm Josue Vasquez</h1>
-<h3 align="center">Soy desarrollador Junior,Me apaciona el desarrollo Movil con flutter, tambien la parte Font Angular y Back spring boot</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/israelmerlyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="israelmerlyn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@isramerlyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@isramerlyn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tecnodev tutos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tecnodev tutos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josue-israel-vasquez-martinez-355a41187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@isramerlyn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tecno-devtutos6605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tecnodev tutos" height="30" width="40" /></a>
+</p>
+<h3>Lenguajes Front, Back y Movil:</h3>
+<p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
