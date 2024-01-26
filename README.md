@@ -38,7 +38,7 @@
 
 <p align="center">
 
-[![Blog](https://img.shields.io/website?label=IsraelMerlyn.com&-up-down-green-red&style=for-the-badge&url=https://israelmerlyn.github.io/IsramerlynPortafolio/)](https://israelmerlyn.github.io/IsramerlynPortafolio/)
+[![Blog](https://img.shields.io/website?label=IsraelMerlyn.com&-up-down-green-red&style=for-the-badge&url=https://israelmerlyn-app.netlify.app/)](https://israelmerlyn-app.netlify.app/)
 
 
 <a href="https://linkedin.com/in/josue-israel-vasquez-martinez-355a41187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@isramerlyn" height="30" width="40" /></a>
