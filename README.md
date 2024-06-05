@@ -34,6 +34,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="postman" width="40" height="40"/> </a </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IsraelMerlyn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Contactame:</h3>
 
 <p align="center">
